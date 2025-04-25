@@ -1,8 +1,8 @@
 {
-  "hello": "Hello",
-  "world": "World",
-  "button": {
-    "submit": "Submit",
-    "cancel": "Cancel"
-  }
+    "hello": "Hello",
+    "world": "World",
+    "button": {
+        "submit": "Submit",
+        "cancel": "Cancel"
+    }
 }
