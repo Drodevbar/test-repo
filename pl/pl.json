@@ -1,0 +1,8 @@
+{
+    "hello": "Witaj",
+    "world": "Świat",
+    "button": {
+        "submit": "Opublikuj",
+        "cancel": "Anuluj"
+    }
+}
