@@ -3,6 +3,7 @@
     "world": "Świat",
     "button": {
         "submit": "Opublikuj",
-        "cancel": "Anuluj"
+        "cancel": "Anuluj",
+        "test_connection": "Sprawdź połączenie #EDYTOWANO"
     }
 }
