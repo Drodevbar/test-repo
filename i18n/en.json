@@ -3,6 +3,7 @@
     "world": "World",
     "button": {
         "submit": "Submit",
-        "cancel": "Cancel"
+        "cancel": "Cancel",
+        "test_connection": "Test connection"
     }
 }
